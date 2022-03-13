@@ -1,6 +1,10 @@
 # JPG_Converter
 A simple image converter using Kivy and Python
 
+<div align="center">
+  <img src="https://github.com/misbahfhm/JPG_Converter/blob/main/screen_test.jpg"/>
+</div>
+
 ## Installation
 1.
 ```
