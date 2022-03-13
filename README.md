@@ -31,4 +31,5 @@ pip install -r requirements.txt
 2. Allow permission to access storage
 3. You won't see anything there except the button. Now, Back to home, then re-open the app
 4. Choose your image that want to be converted to .jpg
-5. The output file will appear in same directory with your original image, but it has "_converted" addition 
+5. Click on "Convert to JPG" Button
+6. The output file will appear in same directory with your original image, but it has "_converted" addition 
